@@ -1,5 +1,5 @@
 #스택으로 큐 구현하기 - 파이썬
-class HyunQueue():
+class Queue():
     def __init__(self):
         self.stack1 = []
         self.stack2 = []
