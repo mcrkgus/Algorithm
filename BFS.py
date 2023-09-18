@@ -1,4 +1,4 @@
-#BFS - Breadth First Search
+#BFS
 #너비 우선 탐색 : 가까운 노드부터 탐색
 #큐 자료구조 사용
 
